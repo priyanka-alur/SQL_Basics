@@ -44,7 +44,10 @@ SELECT department, AVG(salary) AS avg_salary
 FROM employee
 GROUP BY department;
 
-
+SELECT department, AVG(salary) AS avg_salary
+FROM employee
+GROUP BY department
+having avg(salary)> 50000;
 
 
 
