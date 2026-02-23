@@ -1,5 +1,6 @@
 # SQL_Basics
-Started learning SQL in morning session consistantly from 5am to 7am
-learned what is SQL? Why SQL? what are Applications of SQL? and also some meaningful definitions of Data,DataBase,DBMS-Data Base management systems,RDBMS-Relational Database Management systems.
-statement of SQL 
-Writing queries to solve business decision making
+I started learning SQL through a consistent morning study routine from 5:00 AM to 7:00 AM. 
+During this journey, I learned the fundamentals of SQL, including its purpose, applications, and role in business decision-making.
+I gained a strong understanding of core concepts such as Data, Database, DBMS (Database Management System), and RDBMS (Relational Database Management System).
+I also practiced writing SQL queries to analyze data and solve real-world business problems.
+This project reflects my hands-on learning experience and continuous effort to build strong data analysis skills.
